@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTestMemory22", "DockerTestMemory22\DockerTestMemory22.csproj", "{8DF5A744-EE11-4DDA-BFEC-00453CDFD1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTestMemoryConsole", "DockerTestMemoryConsole\DockerTestMemoryConsole.csproj", "{803456DC-DAC4-46AD-90C9-AEAE3B7CCBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTestMemory30", "DockerTestMemory30\DockerTestMemory30.csproj", "{D07E93B8-0AF0-44DB-9FB9-E34AD0ED17D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF5A744-EE11-4DDA-BFEC-00453CDFD1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF5A744-EE11-4DDA-BFEC-00453CDFD1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF5A744-EE11-4DDA-BFEC-00453CDFD1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF5A744-EE11-4DDA-BFEC-00453CDFD1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803456DC-DAC4-46AD-90C9-AEAE3B7CCBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803456DC-DAC4-46AD-90C9-AEAE3B7CCBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803456DC-DAC4-46AD-90C9-AEAE3B7CCBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803456DC-DAC4-46AD-90C9-AEAE3B7CCBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07E93B8-0AF0-44DB-9FB9-E34AD0ED17D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07E93B8-0AF0-44DB-9FB9-E34AD0ED17D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07E93B8-0AF0-44DB-9FB9-E34AD0ED17D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07E93B8-0AF0-44DB-9FB9-E34AD0ED17D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-json
+		$0.JSONFormattingPolicy = $6
+		$6.AutoStructureCompletion = True
+		$6.BracePositions = SemiExpanded
+		$6.FormatOnPaste = True
+		$6.scope = text/x-json
+		$0.TextStylePolicy = $7
+		$7.inheritsSet = null
+		$7.scope = text/x-web
+		$0.TextStylePolicy = $8
+		$8.inheritsSet = null
+		$8.scope = text/x-vs
+		$0.VersionControlPolicy = $9
+	EndGlobalSection
+EndGlobal
