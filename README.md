@@ -10,4 +10,4 @@ Para rodar o sistema, você deve ter instalado o Docker.
 2. Apos gerar as imagens, suba o container. comando: docker-compose up.
 3. Va a pasta do console e coloque o comando para rodar o .NET CORE. comando: dotnet run.
 
-Você devera informar a quantidade de repetições e ao final o sistema de informa o consumo de memoria. 
+Você devera informar a quantidade de repetições e ao final o sistema te informa o consumo de memoria. 
